@@ -27,8 +27,8 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Pocksup Team',
-    author_email='info@pocksup.example.com',
-    url='https://github.com/pocksup/pocksup',
+    author_email='mdanut159@gmail.com',
+    url='https://github.com/gyovannyvpn123/Pocksup-lib',
     packages=find_packages(),
     include_package_data=True,
     python_requires='>=3.11',
@@ -71,8 +71,8 @@ setup(
     ],
     keywords='whatsapp, messaging, chat, communication, yowsup',
     project_urls={
-        'Documentation': 'https://github.com/pocksup/pocksup',
-        'Source': 'https://github.com/pocksup/pocksup',
-        'Issues': 'https://github.com/pocksup/pocksup/issues',
+        'Documentation': 'https://github.com/gyovannyvpn123/Pocksup-lib',
+        'Source': 'https://github.com/gyovannyvpn123/Pocksup-lib',
+        'Issues': 'https://github.com/gyovannyvpn123/Pocksup-lib/issues',
     },
 )
